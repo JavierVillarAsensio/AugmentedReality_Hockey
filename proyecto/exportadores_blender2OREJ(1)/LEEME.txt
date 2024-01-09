@@ -1,0 +1,4 @@
+- ExportOREj.py --> exportador blender a orj para versiones de blender <= 2.49
+- ExportOREj2017.py --> exportador blender a orj para versiones de blender > 2.49
+- ExportOREj2019.py --> Realizado por Javier Córdoba Romero adaptado a versión 2.79 o superior.
+- ExportOREj2020.py --> Actualizado por Javier Albusac para que funcione para blender 2.90.

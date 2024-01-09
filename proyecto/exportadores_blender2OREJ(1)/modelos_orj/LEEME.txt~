@@ -1,0 +1,4 @@
+- Para una mayor eficiencia, mejor que las texturas sean cuadradas y potencia de dos.
+- El formato ppm --> generarlo con gimp. Abrir una imagen jpg, png o de cualquier otro formato y expotar a ppm. Sale opcion Crudo o ASCII, elegir ASCII.
+
+- El cargador de objetos de ARTOOLKIT, carga el objeto por triangulos. Para convertir la malla de blender en triangulos, Control + T o mesh > faces > triangulate faces.
